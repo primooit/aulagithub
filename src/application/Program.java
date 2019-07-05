@@ -60,6 +60,8 @@ public class Program {
 			System.out.println(obj);
 
 		}
+		
+		System.out.println("teste 1, 2, 3");
 
 		sc.close();
 
